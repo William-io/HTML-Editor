@@ -1,6 +1,7 @@
-﻿using HTML_Editor.Views;
+﻿using HTML_Editor.Model;
+using HTML_Editor.Views;
 
-namespace HTML_Editor
+namespace HTML_Editor.Controller
 {
     public class TestInstance
     {

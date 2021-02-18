@@ -1,8 +1,9 @@
-﻿using System;
+﻿using HTML_Editor.Controller;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace HTML_Editor
+namespace HTML_Editor.Views
 {
     public class Editor : Save
     {

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text;
 
-namespace HTML_Editor
+namespace HTML_Editor.Controller
 {
     public class Save : Entity
     {
